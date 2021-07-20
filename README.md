@@ -1,6 +1,6 @@
 ### 大家好 👋
 
-一名简单低调的Java攻城狮，目前正在学习ES6和Golang
+一名低调的Java攻城狮，目前正在学习Java、ES6、Golang
 
 [我的笔记](https://xu-ux.github.io/note)
 [我的博客](https://xu-ux.github.io)
