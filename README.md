@@ -9,7 +9,7 @@
 
 
 
-[![xu-ux's github stats](https://github-readme-stats.vercel.app/api?username=xu-ux&show_icons=true&icon_color=0366d6&text_color=24292e&bg_color=ffffff&hide_title=true)](https://github.com/blog-crawl-admin/github-readme-stats)
+[![xu-ux's github stats](https://github-readme-stats.vercel.app/api?username=xu-ux&show_icons=true&icon_color=0366d6&text_color=24292e&bg_color=ffffff&hide_title=true)](https://github.com/xu-ux/blog-crawl-admin)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=xu-ux&layout=compact)
 
 <!--
