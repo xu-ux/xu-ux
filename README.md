@@ -1,11 +1,16 @@
-### 大家好 👋
+### 低调开头 👋
 
-我是一名低调的Java攻城狮，目前正在学习Java、ES6、Golang
+我是一名低调的Java攻城狮
+- 🔭 记载一些笔记-[我的笔记](https://xu-ux.github.io/note)
+- 🌱 写一些博客-[我的博客](https://xu-ux.github.io)
+- 🔭 目前正在学习Java、ES6、Golang
+- 💬 有任何问题或者建议可以在[社区](https://github.com/xu-ux/note/discussions)讨论
 
-[我的笔记](https://xu-ux.github.io/note)
-[我的博客](https://xu-ux.github.io)
 
 
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=xu-ux&show_icons=true&icon_color=0366d6&text_color=24292e&bg_color=ffffff&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=xu-ux&layout=compact)
 
 <!--
 **xu-ux/xu-ux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
