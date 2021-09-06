@@ -1,0 +1,32 @@
+name: Deploy README
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: 0 */6 * * *
+  push:
+    branches:
+      - main
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v2
+    # - name: Set up Python
+    #   uses: actions/setup-python@v1
+    #   with:
+    #     python-version: 3.8
+    - name: Use Node.js
+      uses: actions/setup-node@v1
+      with:
+        node-version: '14.x'
+    - name: Update year bar
+      run: |
+          node ./src/progressBar.js
+    - name: Commit change & Push
+      run: |
+          git config user.name 'github actions'
+          git config user.email '52966229+xu-ux@users.noreply.github.com'
+          git commit -am "bot: update progressBar"
+          git push
