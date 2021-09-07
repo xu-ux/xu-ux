@@ -17,7 +17,8 @@ function generateProgressBar() {
 const readme = `⏳ Year Progress ${progressBarOfThisYear} ${(progressOfThisYear * 100).toFixed(4)} %`
 
 console.log(readme)
-
+// https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference/Global_Objects/Date/toLocaleString
+console.log(new Date().toLocaleString('zh-CN', { timeZone: 'Asia/Shanghai' ,hour12: false}))
 
 // 同步读取
 var file = fs.readFileSync('README.md',"UTF-8");
