@@ -7,10 +7,17 @@ const progressOfThisYear = (Date.now() - startTimeOfThisYear) / (endTimeOfThisYe
 const progressBarOfThisYear = generateProgressBar()
 
 function generateProgressBar() {
+ 
     const progressBarCapacity = 30
-    const passedProgressBarIndex = parseInt(progressOfThisYear * progressBarCapacity)
-    const progressBar =
-      '🌕'.repeat(passedProgressBarIndex - 1) +'🌗'+'🌑'.repeat(progressBarCapacity - passedProgressBarIndex)
+    let passedProgressBarIndex = parseInt(progressOfThisYear * progressBarCapacity)
+
+    let progressBar = '🌕'.repeat(passedProgressBarIndex - 1) +'🌗'+'🌑'.repeat(progressBarCapacity - passedProgressBarIndex)
+    if(passedProgressBarIndex == (progressBarCapacity -1)) {
+        progressBar = '🌕'.repeat(passedProgressBarIndex) + '🌗'
+    } 
+    else if ( passedProgressBarIndex == progressBarCapacity) {
+        progressBar = '🌕'.repeat(passedProgressBarIndex)
+    }
     return ` ${progressBar} `
 }
 
@@ -19,6 +26,7 @@ const readme = `⏳ Year Progress ${progressBarOfThisYear} ${(progressOfThisYear
 console.log(readme)
 // https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference/Global_Objects/Date/toLocaleString
 console.log(new Date().toLocaleString('zh-CN', { timeZone: 'Asia/Shanghai' ,hour12: false}))
+
 
 // 同步读取
 var file = fs.readFileSync('README.md',"UTF-8");
