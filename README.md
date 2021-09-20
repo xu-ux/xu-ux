@@ -23,7 +23,12 @@
 ---
 <!--START_SECTION:progressBar-->
 
-- ⏳ Year Progress  🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌗🌑🌑🌑🌑🌑🌑🌑🌑🌑  71.8668 %9A-brightgreen?logo=WeChat)](https://cdn.jsdelivr.net/gh/xu-ux/static/img/wxarticle/dao_chuan_official_accounts.png)
+- ⏳ Year Progress  🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌗🌑🌑🌑🌑🌑🌑🌑🌑🌑  71.8527 %
+
+<!--END_SECTION:progressBar-->
+
+- 
+    [![WeChat](https://img.shields.io/badge/公众号-氘氚-brightgreen?logo=WeChat)](https://cdn.jsdelivr.net/gh/xu-ux/static/img/wxarticle/dao_chuan_official_accounts.png)
     [![Blog](https://img.shields.io/badge/blog-博客园-blue?logo=Blogger&logoColor=white)](https://www.cnblogs.com/xu-ux/)
     [![Blog](https://img.shields.io/badge/blog-CSDN-red?logo=Blogger&logoColor=red)](https://blog.csdn.net/qq_35341203)
 
