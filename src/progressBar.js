@@ -31,12 +31,12 @@ console.log(new Date().toLocaleString('zh-CN', { timeZone: 'Asia/Shanghai' ,hour
 // 同步读取
 var file = fs.readFileSync('README.md',"UTF-8");
 //var reger = new RegExp("(<!\-\-START_SECTION:progressBar\-\->\\s?)(.*)(\\s*)(<!\-\-END_SECTION:progressBar\-\->)","g");
-var reger=new RegExp("⏳([.\\s\\S]*)%","g");
+var reger=new RegExp("⏳([.\\s\\S]*\\d\\s%)\\n","g");
 
 // https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference/Global_Objects/String/replace
 function replacer(match, p1, offset, string) {
-  //debugger
-  return readme
+//   debugger
+  return readme + `\r\n`
 }
 
 var newData = file.toString().replace(reger,replacer)
