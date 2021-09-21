@@ -1,4 +1,4 @@
-<img align="right" width="400" src="https://cdn.jsdelivr.net/gh/xu-ux/static/img/blog/2021/cat.gif">
+<a href="https://xu-ux.github.io" target="_blank"><img align="right" width="400" src="https://cdn.jsdelivr.net/gh/xu-ux/static/img/blog/2021/cat.gif"></a>
 
 # Hi, I'm [Xuux](https://xu-ux.github.io) 👋.
 
