@@ -29,16 +29,17 @@ console.log(new Date().toLocaleString('zh-CN', { timeZone: 'Asia/Shanghai' ,hour
 
 
 // 同步读取
-var file = fs.readFileSync('README.md',"UTF-8");
+var file = fs.readFileSync('README.md',"UTF-8")
 //var reger = new RegExp("(<!\-\-START_SECTION:progressBar\-\->\\s?)(.*)(\\s*)(<!\-\-END_SECTION:progressBar\-\->)","g");
-var reger=new RegExp("⏳([.\\s\\S]*\\d\\s%)\\n","g");
+var reger=new RegExp("⏳([.\\s\\S]*\\d\\s%)","g") // ⏳([.\\s\\S]*\\d\\s%)\\n
 
 // https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference/Global_Objects/String/replace
 function replacer(match, p1, offset, string) {
-//   debugger
-  return readme + `\r\n`
+   // debugger
+   // return readme + `\n`
+   return readme
 }
 
 var newData = file.toString().replace(reger,replacer)
 
-fs.writeFileSync('README.md', newData);
+fs.writeFileSync('README.md', newData)
