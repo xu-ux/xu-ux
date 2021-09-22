@@ -29,4 +29,4 @@ jobs:
           git config user.name 'github actions'
           git config user.email '52966229+xu-ux@users.noreply.github.com'
           git commit -am "bot: update progressBar"
-          git push origin -u mian -f
+          git push main -f
