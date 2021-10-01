@@ -43,7 +43,7 @@ async function updateMD(){
     // 获取天气信息
     let content = await httpUtil({
         host:'www.wttr.in',
-        path:encodeURI('/GuangZhou?format=%l+%c\n🌡%t+%h+moon:%m\n🌄%D+🌇%d&lang=zh-cn'),
+        path:encodeURI('/GuangZhou?m&format=%l+%c\n🌡%t+%h+moon:%m\n🌄%D+🌇%d&lang=zh-cn'),
         action:'GET',
     });
     console.log("天气信息："+content);
