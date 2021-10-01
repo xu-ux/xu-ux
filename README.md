@@ -17,6 +17,13 @@
 - 💬 有任何问题或者建议可以在[社区](https://github.com/xu-ux/note/discussions)讨论
 
 
+### 今日天气
+
+<!--START_WEATHER-->
+GuangZhou ⛅️ 
+🌡+35°C 60% moon:🌘
+🌄05:55:33 🌇18:36:57
+<!--END_WEATHER-->
 
 
 [![xu-ux's github stats](https://github-readme-stats.vercel.app/api?username=xu-ux&show_icons=true&icon_color=0366d6&text_color=24292e&bg_color=ffffff&hide_title=true)](https://github.com/xu-ux/blog-crawl-admin)
@@ -25,7 +32,7 @@
 ---
 <!--START_SECTION:progressBar-->
 
-- ⏳ Year Progress  🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌗🌑🌑🌑🌑🌑🌑🌑🌑  74.8048 %
+- ⏳ Year Progress  🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌗🌑🌑🌑🌑🌑🌑🌑🌑  74.8515 %
 
 <!--END_SECTION:progressBar-->
 
