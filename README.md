@@ -21,8 +21,8 @@
 
 <!--START_WEATHER-->
 GuangZhou 🌦
-🌡+23°C 69% moon:🌓
-🌄05:59:25 🌇18:26:40
+🌡+21°C 88% moon:🌓
+🌄05:59:48 🌇18:25:48
 <!--END_WEATHER-->
 
 
@@ -32,7 +32,7 @@ GuangZhou 🌦
 ---
 <!--START_SECTION:progressBar-->
 
-- ⏳ Year Progress  🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌗🌑🌑🌑🌑🌑🌑🌑  78.0153 %
+- ⏳ Year Progress  🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌗🌑🌑🌑🌑🌑🌑🌑  78.0873 %
 
 <!--END_SECTION:progressBar-->
 
