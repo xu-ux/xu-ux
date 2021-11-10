@@ -20,9 +20,19 @@
 ### 今日天气
 
 <!--START_WEATHER-->
+<<<<<<< HEAD
 GuangZhou ☀️
 🌡+19°C 40% moon:🌓
 🌄06:13:12 🌇18:07:42
+=======
+<HTML><HEAD><meta http-equiv="content-type" content="text/html;charset=utf-8">
+<TITLE>301 Moved</TITLE></HEAD><BODY>
+<H1>301 Moved</H1>
+The document has moved
+<A HREF="https://www.wttr.in/GuangZhou?m&format=%25l+%25c%0A%F0%9F%8C%A1%25t+%25h+moon:%25m%0A%F0%9F%8C%84%25D+%F0%9F%8C%87%25d&lang=zh-cn">here</A>.
+</BODY></HTML>
+
+>>>>>>> 66e40c404b90d04cfbea954c124646c395935887
 <!--END_WEATHER-->
 
 
@@ -32,7 +42,11 @@ GuangZhou ☀️
 ---
 <!--START_SECTION:progressBar-->
 
+<<<<<<< HEAD
 - ⏳ Year Progress  🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌗🌑🌑🌑🌑🌑  85.7803 %
+=======
+- ⏳ Year Progress  🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌗🌑🌑🌑🌑🌑  85.7585 %
+>>>>>>> 66e40c404b90d04cfbea954c124646c395935887
 
 <!--END_SECTION:progressBar-->
 
