@@ -1,5 +1,5 @@
 var fs = require("fs")
-var httpUtil = require("./httpUtil.js")
+var {httpUtil,httpsUtil} = require("./httpUtil.js")
 
 const thisYear = new Date().getFullYear()
 const startTimeOfThisYear = new Date(`${thisYear}-01-01T00:00:00+00:00`).getTime()
@@ -41,7 +41,7 @@ var fileStr = file.toString()
 async function updateMD(){
 
     // 获取天气信息
-    let content = await httpUtil({
+    let content = await httpsUtil({
         host:'www.wttr.in',
         path:encodeURI('/GuangZhou?m&format=%l+%c\n🌡%t+%h+moon:%m\n🌄%D+🌇%d&lang=zh-cn'),
         action:'GET',
