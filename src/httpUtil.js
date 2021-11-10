@@ -1,6 +1,9 @@
 var http=require("http"); //导入需要的http库
 var https = require('https');
 
+// 相关文档
+// https://nodejs.org/api/http.html
+// https://nodejs.org/api/https.html#https_https_get_options_callback
 
 const httpUtil = function (data){
 
