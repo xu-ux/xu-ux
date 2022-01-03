@@ -11,17 +11,23 @@ function generateProgressBar() {
  
     const progressBarCapacity = 30
     let passedProgressBarIndex = parseInt(progressOfThisYear * progressBarCapacity)
-
-    let progressBar = '🌕'.repeat(passedProgressBarIndex - 1) +'🌗'+'🌑'.repeat(progressBarCapacity - passedProgressBarIndex)
+    let progressBar = ''
+   
     if(passedProgressBarIndex == (progressBarCapacity -1)) {
         progressBar = '🌕'.repeat(passedProgressBarIndex) + '🌗'
     } 
     else if ( passedProgressBarIndex == progressBarCapacity) {
         progressBar = '🌕'.repeat(passedProgressBarIndex)
     }
+    else if (passedProgressBarIndex == 0){
+        progressBar = '🌕'.repeat(progressBarCapacity)
+    }
+    else{
+        progressBar = '🌕'.repeat(passedProgressBarIndex - 1) +'🌗'+'🌑'.repeat(progressBarCapacity - passedProgressBarIndex)
+    }
     return ` ${progressBar} `
 }
-// debugger
+debugger
 
 /**
  * 获取进度条
