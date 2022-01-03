@@ -20,7 +20,7 @@ function generateProgressBar() {
         progressBar = '🌕'.repeat(passedProgressBarIndex)
     }
     else if (passedProgressBarIndex == 0){
-        progressBar = '🌕'.repeat(progressBarCapacity)
+        progressBar = '🌑'.repeat(progressBarCapacity)
     }
     else{
         progressBar = '🌕'.repeat(passedProgressBarIndex - 1) +'🌗'+'🌑'.repeat(progressBarCapacity - passedProgressBarIndex)
