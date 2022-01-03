@@ -27,7 +27,7 @@ function generateProgressBar() {
     }
     return ` ${progressBar} `
 }
-debugger
+// debugger
 
 /**
  * 获取进度条
