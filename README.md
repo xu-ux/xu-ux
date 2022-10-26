@@ -20,7 +20,13 @@
 ### 今日天气
 
 <!--START_WEATHER-->
-Unknown location; please try ~23.1387267,113.319321
+
+抱歉，当前天气服务不可用。
+以下显示默认城市（只对您可见）。
+我们将会尽快获取新数据。
+您可以通过 https://twitter.com/igor_chubin 获取最新动态。
+======================================================================================
+
 <!--END_WEATHER-->
 
 
@@ -30,7 +36,7 @@ Unknown location; please try ~23.1387267,113.319321
 ---
 <!--START_SECTION:progressBar-->
 
-- ⏳ Year Progress  🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌗🌑🌑🌑🌑🌑🌑  81.5823 %
+- ⏳ Year Progress  🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌗🌑🌑🌑🌑🌑🌑  81.6550 %
 
 <!--END_SECTION:progressBar-->
 
