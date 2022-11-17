@@ -20,20 +20,9 @@
 ### 今日天气
 
 <!--START_WEATHER-->
-<html>
-<head><title>502 Bad Gateway</title></head>
-<body bgcolor="white">
-<center><h1>502 Bad Gateway</h1></center>
-<hr><center>nginx/1.10.3</center>
-</body>
-</html>
-<!-- a padding to disable MSIE and Chrome friendly error page -->
-<!-- a padding to disable MSIE and Chrome friendly error page -->
-<!-- a padding to disable MSIE and Chrome friendly error page -->
-<!-- a padding to disable MSIE and Chrome friendly error page -->
-<!-- a padding to disable MSIE and Chrome friendly error page -->
-<!-- a padding to disable MSIE and Chrome friendly error page -->
-
+GuangZhou 🌦  
+🌡+24°C 75% moon:🌗
+🌄06:17:17 🌇18:05:40
 <!--END_WEATHER-->
 
 
@@ -43,7 +32,7 @@
 ---
 <!--START_SECTION:progressBar-->
 
-- ⏳ Year Progress  🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌗🌑🌑🌑🌑  87.6050 %
+- ⏳ Year Progress  🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌗🌑🌑🌑🌑  87.6811 %
 
 <!--END_SECTION:progressBar-->
 
