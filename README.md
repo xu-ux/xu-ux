@@ -6,7 +6,7 @@
 
 也是国际CV编程协会的一员
 
-[![图片](https://api.xuux.top/test?type=svg)](https://xu-ux.github.io)
+[![图片](https://mock.apifox.cn/m1/2137218-0-default/weather/test)](https://xu-ux.github.io)
 
 ### 低调做事 ⛏
 
