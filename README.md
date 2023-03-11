@@ -4,7 +4,7 @@
 
 我是一名低调的Java攻城狮🦁
 
-也是国际CV编程协会的一员
+热爱Coding
 
 [![图片](https://mock.apifox.cn/m1/2137218-0-default/weather/test)](https://xu-ux.github.io)
 
