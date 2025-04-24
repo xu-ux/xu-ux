@@ -1,4 +1,3 @@
-<a href="https://xu-ux.github.io" target="_blank"><img align="right" width="400" src="https://cdn.jsdelivr.net/gh/xu-ux/static/img/blog/2021/cat.gif"></a>
 
 # Hi, I'm [因吹斯汀](https://xu-ux.github.io) 👋.
 
