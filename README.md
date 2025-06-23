@@ -19,8 +19,8 @@
 ### 今日天气
 
 <!--START_WEATHER-->
-GuangZhou ⛅️ 
-🌡+34°C 60% moon:🌘
+GuangZhou 🌦  
+🌡+31°C 71% moon:🌘
 🌄05:16:36 🌇19:41:17
 <!--END_WEATHER-->
 
@@ -31,7 +31,7 @@ GuangZhou ⛅️
 ---
 <!--START_SECTION:progressBar-->
 
-- ⏳ Year Progress  🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌗🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑  47.4695 %
+- ⏳ Year Progress  🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌗🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑  47.5391 %
 
 <!--END_SECTION:progressBar-->
 
