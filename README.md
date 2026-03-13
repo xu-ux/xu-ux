@@ -19,7 +19,9 @@
 ### 今日天气
 
 <!--START_WEATHER-->
-Unknown location; please try ~23.1387267,113.319321
+GuangZhou ☀️  
+🌡+26°C 30% moon:🌘
+🌄06:15:09 🌇18:57:41
 <!--END_WEATHER-->
 
 
@@ -29,7 +31,7 @@ Unknown location; please try ~23.1387267,113.319321
 ---
 <!--START_SECTION:progressBar-->
 
-- ⏳ Year Progress  🌕🌕🌕🌕🌗🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑  19.4668 %
+- ⏳ Year Progress  🌕🌕🌕🌕🌗🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑  19.5282 %
 
 <!--END_SECTION:progressBar-->
 
