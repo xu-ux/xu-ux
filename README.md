@@ -19,8 +19,9 @@
 ### 今日天气
 
 <!--START_WEATHER-->
-Get "http://www.wttr.in/GuangZhou?m&format=%25l+%25c%0A%F0%9F%8C%A1%25t+%25h+moon:%25m%0A%F0%9F%8C%84%25D+%F0%9F%8C%87%25d&lang=zh-cn": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
-
+guangzhou ⛅️ 
+🌡+22°C 73% moon:🌑
+🌄06:10:23 🌇18:59:38
 <!--END_WEATHER-->
 
 
@@ -30,7 +31,7 @@ Get "http://www.wttr.in/GuangZhou?m&format=%25l+%25c%0A%F0%9F%8C%A1%25t+%25h+moo
 ---
 <!--START_SECTION:progressBar-->
 
-- ⏳ Year Progress  🌕🌕🌕🌕🌕🌗🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑  20.9685 %
+- ⏳ Year Progress  🌕🌕🌕🌕🌕🌗🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑  21.0364 %
 
 <!--END_SECTION:progressBar-->
 
