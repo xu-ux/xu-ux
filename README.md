@@ -19,7 +19,9 @@
 ### 今日天气
 
 <!--START_WEATHER-->
-Unknown location; please try ~23.1387267,113.319321
+guangzhou ⛅️ 
+🌡+27°C 62% moon:🌑
+🌄06:08:26 🌇19:00:24
 <!--END_WEATHER-->
 
 
@@ -29,7 +31,7 @@ Unknown location; please try ~23.1387267,113.319321
 ---
 <!--START_SECTION:progressBar-->
 
-- ⏳ Year Progress  🌕🌕🌕🌕🌕🌗🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑  21.3848 %
+- ⏳ Year Progress  🌕🌕🌕🌕🌕🌗🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑  21.4465 %
 
 <!--END_SECTION:progressBar-->
 
