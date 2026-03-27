@@ -19,8 +19,9 @@
 ### 今日天气
 
 <!--START_WEATHER-->
-weather fetch failed: unexpected status code: 500
-
+guangzhou ⛅ 
+🌡+28°C 62% moon:🌓
+🌄06:00:35 🌇19:03:52
 <!--END_WEATHER-->
 
 
@@ -30,7 +31,7 @@ weather fetch failed: unexpected status code: 500
 ---
 <!--START_SECTION:progressBar-->
 
-- ⏳ Year Progress  🌕🌕🌕🌕🌕🌗🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑  23.3042 %
+- ⏳ Year Progress  🌕🌕🌕🌕🌕🌕🌗🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑  23.3670 %
 
 <!--END_SECTION:progressBar-->
 
