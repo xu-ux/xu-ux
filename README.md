@@ -19,9 +19,8 @@
 ### 今日天气
 
 <!--START_WEATHER-->
-guangzhou ⛅ 
-🌡+25°C 74% moon:🌓
-🌄06:00:35 🌇19:03:52
+weather fetch failed: unexpected status code: 500
+
 <!--END_WEATHER-->
 
 
@@ -31,7 +30,7 @@ guangzhou ⛅
 ---
 <!--START_SECTION:progressBar-->
 
-- ⏳ Year Progress  🌕🌕🌕🌕🌕🌗🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑  23.2295 %
+- ⏳ Year Progress  🌕🌕🌕🌕🌕🌗🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑  23.3042 %
 
 <!--END_SECTION:progressBar-->
 
