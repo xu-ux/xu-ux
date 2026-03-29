@@ -19,8 +19,8 @@
 ### 今日天气
 
 <!--START_WEATHER-->
-guangzhou 🌩 
-🌡+28°C 66% moon:🌔
+guangzhou 🌦  
+🌡+20°C 100% moon:🌔
 🌄05:58:36 🌇19:04:38
 <!--END_WEATHER-->
 
@@ -31,7 +31,7 @@ guangzhou 🌩
 ---
 <!--START_SECTION:progressBar-->
 
-- ⏳ Year Progress  🌕🌕🌕🌕🌕🌕🌗🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑  23.9144 %
+- ⏳ Year Progress  🌕🌕🌕🌕🌕🌕🌗🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑  23.9793 %
 
 <!--END_SECTION:progressBar-->
 
