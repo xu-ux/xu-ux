@@ -19,8 +19,9 @@
 ### 今日天气
 
 <!--START_WEATHER-->
-render failed: response missing current_condition array
-
+guangzhou ⛅ 
+🌡+28°C 74% moon:🌗
+🌄05:47:53 🌇19:08:58
 <!--END_WEATHER-->
 
 
@@ -30,7 +31,7 @@ render failed: response missing current_condition array
 ---
 <!--START_SECTION:progressBar-->
 
-- ⏳ Year Progress  🌕🌕🌕🌕🌕🌕🌕🌗🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑  26.8650 %
+- ⏳ Year Progress  🌕🌕🌕🌕🌕🌕🌕🌗🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑  26.9314 %
 
 <!--END_SECTION:progressBar-->
 
