@@ -21,7 +21,7 @@
 <!--START_WEATHER-->
 guangzhou ⛅ 
 🌡+27°C 79% moon:🌘
-🌄05:44:06 🌇19:10:38
+🌄05:43:11 🌇19:11:03
 <!--END_WEATHER-->
 
 
@@ -31,7 +31,7 @@ guangzhou ⛅
 ---
 <!--START_SECTION:progressBar-->
 
-- ⏳ Year Progress  🌕🌕🌕🌕🌕🌕🌕🌗🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑  28.0944 %
+- ⏳ Year Progress  🌕🌕🌕🌕🌕🌕🌕🌗🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑  28.1626 %
 
 <!--END_SECTION:progressBar-->
 
