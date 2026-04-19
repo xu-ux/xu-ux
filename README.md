@@ -25,10 +25,8 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>wttr.in — Weather Report</title>
-
-    <link rel="stylesheet" type="text/css" 
+    <link rel="stylesheet" type="text/css"
           href="https://adobe-fonts.github.io/source-code-pro/source-code-pro.css">
-
     <style>
         html, body {
             margin: 0;
@@ -37,22 +35,21 @@
             height: 100%;
             overflow: auto;
         }
-
         .term-container {
             background: #000000;
             color: #bbbbbb;
-            font-family: "Source Code Pro", 
-                         "DejaVu Sans Mono", 
-                         Menlo, 
-                         "Lucida Sans Typewriter", 
-                         "Lucida Console", 
-                         monaco, 
-                         "Bitstream Vera Sans Mono", 
+            font-family: "Source Code Pro",
+                         "DejaVu Sans Mono",
+                         Menlo,
+                         "Lucida Sans Typewriter",
+                         "Lucida Console",
+                         monaco,
+                         "Bitstream Vera Sans Mono",
                          monospace;
             font-size: 11.8px;
             line-height: 1.30 !important;
             letter-spacing: 0.00em;
-            padding: 6px 10px;
+            padding: 6px 10px 0px 10px;
             white-space: pre;
             word-break: normal;
             overflow-wrap: normal;
@@ -60,15 +57,12 @@
             max-width: 100%;
             width: fit-content;
             display: block;
-
             box-sizing: border-box;
         }
-
         .term-fg1, .bold {
             color: #eeeeee;
             font-weight: normal;
         }
-
          
         .term-container-disabled {
   background: #171717;
@@ -371,16 +365,36 @@
 .term-fgx254 { color: #e4e4e4; }
 .term-fgx255 { color: #eeeeee; }
 
+
+         
+        .social-buttons {
+            display: flex;
+            flex-wrap: nowrap;
+            gap: 12px;
+            align-items: center;
+            margin-top: 0px;
+            padding: 0 10px;
+            overflow-x: auto;            
+            -webkit-overflow-scrolling: touch;
+            scrollbar-width: thin;       
+        }
+
+        .social-buttons::-webkit-scrollbar {
+            height: 6px;
+        }
+
+        .github-button,
+        .twitter-follow-button {
+            white-space: nowrap;         
+            flex-shrink: 0;              
+        }
     </style>
 </head>
 <body>
-    <div class="term-container">guangzhou 🌦
-🌡+31°C 49% moon:🌒
-🌄05:38:40 🌇19:13:13
+    <div class="term-container">guangzhou ☀️
+🌡+26°C 79% moon:🌒
+🌄05:37:48 🌇19:13:40
     </div>
-
-    
-
 </body>
 </html>
 
@@ -393,7 +407,7 @@
 ---
 <!--START_SECTION:progressBar-->
 
-- ⏳ Year Progress  🌕🌕🌕🌕🌕🌕🌕🌗🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑  29.7337 %
+- ⏳ Year Progress  🌕🌕🌕🌕🌕🌕🌕🌗🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑  29.8014 %
 
 <!--END_SECTION:progressBar-->
 
