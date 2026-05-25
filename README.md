@@ -392,7 +392,7 @@
 </head>
 <body>
     <div class="term-container">guangzhou 🌤️
-🌡+29°C 84% moon:🌓
+🌡+31°C 75% moon:🌓
 🌄05:16:07 🌇19:31:08
     </div>
 </body>
@@ -407,7 +407,7 @@
 ---
 <!--START_SECTION:progressBar-->
 
-- ⏳ Year Progress  🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌗🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑  39.3957 %
+- ⏳ Year Progress  🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌗🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑  39.4821 %
 
 <!--END_SECTION:progressBar-->
 
