@@ -3,7 +3,7 @@
 
 我是一名低调的Java攻城狮🦁
 
-热爱Coding & AI Coding
+热爱古法编程 & Vibe Coding
 
 ### 低调做事 ⛏
 
@@ -26,16 +26,22 @@ Wuhan ☁️
 🌄05:42:10 🌇18:53:29
 <!--END_WEATHER-->
 
+### 古法大模型
+
+来都来了，卜一卦看看 <a href="https://suangua.tenma.work" target="_blank"><img alt="website" src="https://raw.githubusercontent.com/xu-ux/xu-ux/refs/heads/main/static/taiji.svg"></a>
 
 
----
+### 年进度
+
 <!--START_SECTION:progressBar-->
 
 - ⏳ Year Progress  🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌗🌑🌑🌑🌑🌑🌑🌑🌑🌑  70.7202 %
 
 <!--END_SECTION:progressBar-->
 
--
-    [![Blog](https://img.shields.io/badge/Blog-博客园-blue?logo=Blogger&logoColor=white)](https://www.cnblogs.com/xu-ux/)
-    [![Blog](https://img.shields.io/badge/Blog-CSDN-red?logo=Blogger&logoColor=red)](https://blog.csdn.net/qq_35341203)
+---
+
+
+[![Blog](https://img.shields.io/badge/Blog-博客园-blue?logo=Blogger&logoColor=white)](https://www.cnblogs.com/xu-ux/)
+[![Blog](https://img.shields.io/badge/Blog-CSDN-red?logo=Blogger&logoColor=red)](https://blog.csdn.net/qq_35341203)
 
