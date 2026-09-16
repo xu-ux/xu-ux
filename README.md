@@ -5,11 +5,11 @@
 
 热爱古法编程 & Vibe Coding
 
-### 低调做事 ⛏
+### 低调做事
 
 努力让大模型帮我搬砖中...
 - 🌱 写一些博客-[记录生活和工作](https://xu-ux.github.io)
-- 📚 目前正在学习Java、ES6、Golang等相关编程知识
+- 📚 目前正在接触AI训练和推理相关知识
 - 🔭 不经常记载[笔记](https://xu-ux.github.io/note)
 - 💬 有任何问题或者建议可以在[社区](https://github.com/xu-ux/note/discussions)讨论
 
@@ -28,7 +28,7 @@ Wuhan ☁️
 
 ### 古法大模型
 
-来都来了，卜一卦看看 <a href="https://suangua.tenma.work" target="_blank"><img alt="website" src="https://raw.githubusercontent.com/xu-ux/xu-ux/refs/heads/main/static/taiji.svg"></a>
+来都来了，卜一卦看看 --> <a href="https://suangua.tenma.work" target="_blank"><img alt="website" src="https://raw.githubusercontent.com/xu-ux/xu-ux/refs/heads/main/static/taiji.svg"></a>
 
 
 ### 年进度
