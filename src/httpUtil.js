@@ -14,7 +14,9 @@ const httpUtil = function (data){
         method:data.action, //请求方式
         headers:{ //请求头信息
             'Accept':'*/*',
-            'User-Agent':'Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36'
+            // 注意：wttr.in 会根据 User-Agent 返回不同格式：
+            // 浏览器 UA(Mozilla/...) 返回整页 HTML，curl UA 返回纯文本
+            'User-Agent':data.userAgent || 'curl/8.0.1'
             }
         }
         HttpRequest(option,(success)=>{resolve(success)},(error)=>{reject(error)});
@@ -31,7 +33,9 @@ const httpsUtil = function (data){
         method:data.action, //请求方式
         headers:{ //请求头信息
             'Accept':'*/*',
-            'User-Agent':'Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36'
+            // 注意：wttr.in 会根据 User-Agent 返回不同格式：
+            // 浏览器 UA(Mozilla/...) 返回整页 HTML，curl UA 返回纯文本
+            'User-Agent':data.userAgent || 'curl/8.0.1'
             }
         }
         HttpsRequest(option,(success)=>{resolve(success)},(error)=>{reject(error)});

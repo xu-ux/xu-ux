@@ -12,21 +12,32 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@v2
+    - uses: actions/checkout@v4
+      with:
+        # 定时任务触发时也拿到完整历史，便于 rebase 后推送
+        fetch-depth: 0
     # - name: Set up Python
     #   uses: actions/setup-python@v1
     #   with:
     #     python-version: 3.8
     - name: Use Node.js
-      uses: actions/setup-node@v1
+      uses: actions/setup-node@v4
       with:
-        node-version: '14.x'
-    - name: Update year bar
+        node-version: '20.x'
+    - name: Update year bar & weather
       run: |
           node ./src/progressBar.js
     - name: Commit change & Push
       run: |
           git config user.name 'github actions'
           git config user.email '52966229+xu-ux@users.noreply.github.com'
-          git commit -am "bot: update progressBar"
+          git add README.md
+          # 没有变更时不提交，避免 commit 失败导致整个 workflow 报错
+          if git diff --cached --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "bot: update progressBar & weather"
+          fi
+          # 远端有新提交（如手动推送）时先 rebase 再推送，避免定时任务与手动推送冲突
+          git pull --rebase origin main || echo "nothing to rebase"
           git push

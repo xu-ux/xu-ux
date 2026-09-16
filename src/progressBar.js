@@ -42,21 +42,57 @@ var file = fs.readFileSync('README.md',"UTF-8")
 var fileStr = file.toString()
 
 /**
+ * 需要展示天气的城市列表
+ */
+const WEATHER_CITIES = ['GuangZhou', 'Wuhan'];
+
+/**
+ * 获取单个城市的天气（纯文本）
+ * @param {String} city 城市名
+ * @returns {String|null} 成功返回纯文本天气，失败/返回 HTML 时返回 null
+ */
+async function getWeather(city) {
+    try {
+        let content = await httpsUtil({
+            host: 'www.wttr.in',
+            path: encodeURI(`/${city}?m&format=%l+%c\n🌡%t+%h+moon:%m\n🌄%D+🌇%d&lang=zh-cn`),
+            action: 'GET',
+        });
+        // 防线：wttr.in 对浏览器 User-Agent 会返回整页 HTML，只接受纯文本天气
+        if (!content || /<\s*(!DOCTYPE|html|head|body)/i.test(content)) {
+            console.warn(`${city} 天气接口返回了 HTML 或空数据，跳过该城市`);
+            return null;
+        }
+        console.log(`${city} 天气信息：${content}`);
+        return content.trim();
+    } catch (e) {
+        console.warn(`获取 ${city} 天气失败：${e.message}`);
+        return null;
+    }
+}
+
+/**
  * 修改文件
  */
-async function updateMD(){
+async function updateMD() {
 
-    // 获取天气信息
-    let content = await httpsUtil({
-        host:'www.wttr.in',
-        path:encodeURI('/GuangZhou?m&format=%l+%c\n🌡%t+%h+moon:%m\n🌄%D+🌇%d&lang=zh-cn'),
-        action:'GET',
-    });
-    console.log("天气信息："+content);
+    let newDataA = convertProcess(process, fileStr);
 
-    let newDataA = convertProcess(process,fileStr);
+    // 并发获取所有城市天气
+    let weatherList = await Promise.all(WEATHER_CITIES.map(city => getWeather(city)));
 
-    let newDataB =convertWeather(content,newDataA);
+    // 全部失败时保留原内容
+    if (weatherList.every(w => w === null)) {
+        console.warn("所有城市天气获取失败，保留原天气内容");
+        fs.writeFileSync('README.md', newDataA);
+        console.log("结束")
+        return;
+    }
+
+    // 多个城市之间用空行分隔
+    let content = weatherList.filter(w => w !== null).join('\n\n');
+
+    let newDataB = convertWeather(content, newDataA);
 
     fs.writeFileSync('README.md', newDataB);
     console.log("结束")
