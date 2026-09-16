@@ -7,7 +7,7 @@
 
 ### 低调做事 ⛏
 
-努力搬砖中...
+努力让大模型帮我搬砖中...
 - 🌱 写一些博客-[记录生活和工作](https://xu-ux.github.io)
 - 📚 目前正在学习Java、ES6、Golang等相关编程知识
 - 🔭 不经常记载[笔记](https://xu-ux.github.io/note)
@@ -27,8 +27,6 @@ Wuhan ☁️
 <!--END_WEATHER-->
 
 
-[![xu-ux's github stats](https://github-readme-stats.vercel.app/api?username=xu-ux&show_icons=true&icon_color=0366d6&text_color=24292e&bg_color=ffffff&hide_title=true)](https://github.com/xu-ux/blog-crawl-admin)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=xu-ux&layout=compact)
 
 ---
 <!--START_SECTION:progressBar-->
