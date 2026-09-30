@@ -17,13 +17,13 @@
 ### 今日天气
 
 <!--START_WEATHER-->
-GuangZhou ☁️ 
-🌡+33°C 54% moon:🌖
-🌄05:54:14 🌇18:39:28
+GuangZhou 🌦️ 
+🌡+30°C 77% moon:🌖
+🌄05:54:34 🌇18:38:29
 
-Wuhan 🌦️ 
-🌡+23°C 80% moon:🌖
-🌄05:50:15 🌇18:35:37
+Wuhan ☁️ 
+🌡+21°C 83% moon:🌖
+🌄05:50:50 🌇18:34:23
 <!--END_WEATHER-->
 
 ### 古法大模型
@@ -35,7 +35,7 @@ Wuhan 🌦️
 
 <!--START_SECTION:progressBar-->
 
-- ⏳ Year Progress  🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌗🌑🌑🌑🌑🌑🌑🌑🌑  74.6533 %
+- ⏳ Year Progress  🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌗🌑🌑🌑🌑🌑🌑🌑🌑  74.7180 %
 
 <!--END_SECTION:progressBar-->
 
